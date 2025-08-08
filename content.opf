@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid_id">
+  <metadata>
+    <dc:title>A Pipa Gigante</dc:title>
+    <dc:language>pt-br</dc:language>
+    <dc:publisher>Nome da Editora</dc:publisher>
+    <dc:creator>Jorge Coelho</dc:creator>
+    <dc:description>História infantil sobre uma pipa gigante</dc:description>
+    <dc:identifier id="uuid_id">urn:isbn:[ISBN-DO-LIVRO]</dc:identifier>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">longDescription</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+  </metadata>
+</package>

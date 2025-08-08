@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:isbn:9781234567890"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle><text>Livro PNLD</text></docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel><text>Página 1</text></navLabel>
+      <content src="content/pagina_01.html"/>
+    </navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+      <navLabel><text>Página 2</text></navLabel>
+      <content src="content/pagina_02.html"/>
+    </navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+      <navLabel><text>Página 3</text></navLabel>
+      <content src="content/pagina_03.html"/>
+    </navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+      <navLabel><text>Página 4</text></navLabel>
+      <content src="content/pagina_04.html"/>
+    </navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+      <navLabel><text>Página 5</text></navLabel>
+      <content src="content/pagina_05.html"/>
+    </navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+      <navLabel><text>Página 6</text></navLabel>
+      <content src="content/pagina_06.html"/>
+    </navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+      <navLabel><text>Página 7</text></navLabel>
+      <content src="content/pagina_07.html"/>
+    </navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+      <navLabel><text>Página 8</text></navLabel>
+      <content src="content/pagina_08.html"/>
+    </navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+      <navLabel><text>Página 9</text></navLabel>
+      <content src="content/pagina_09.html"/>
+    </navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+      <navLabel><text>Página 10</text></navLabel>
+      <content src="content/pagina_10.html"/>
+    </navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+      <navLabel><text>Página 11</text></navLabel>
+      <content src="content/pagina_11.html"/>
+    </navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+      <navLabel><text>Página 12</text></navLabel>
+      <content src="content/pagina_12.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
